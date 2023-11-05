@@ -1,0 +1,21 @@
+# Project exclude paths
+/.gradle/
+/Amazing Numbers/task/build/
+/Amazing Numbers/task/out/
+/Amazing Numbers/task/out/production/classes/
+/Topics/Arrays as parameters/Sorting numbers/out/
+/Topics/Arrays as parameters/Sorting numbers/out/production/classes/
+/Topics/Declaring a method/Division/out/
+/Topics/Declaring a method/Division/out/production/classes/
+/Topics/Formatted output/Job simulation/out/
+/Topics/Formatted output/Job simulation/out/production/classes/
+/Topics/Increment and decrement/Decrement all/out/
+/Topics/Increment and decrement/Decrement all/out/production/classes/
+/Topics/Processing strings/Convert a date/out/
+/Topics/Processing strings/Convert a date/out/production/classes/
+/Topics/Processing strings/Double characters/out/
+/Topics/Processing strings/Double characters/out/production/classes/
+/Topics/Processing strings/Move the first N characters/out/
+/Topics/Processing strings/Move the first N characters/out/production/classes/
+/Topics/Relational operators/Check the value/out/
+/Topics/Relational operators/Check the value/out/production/classes/

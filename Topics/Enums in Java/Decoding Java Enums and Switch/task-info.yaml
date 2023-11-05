@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Enum&#x27;s static method can be invoked without creating an instance of enum.
+  - text: "In the switch statement, after MONDAY case, &#x27;default&#x27; statement\
+    \ should be added instead of other days cases."
+  - text: "In Java, it&#x27;s correct to use the enum in the switch statement this way."
+  - text: The Day enum can extend another class.
+  - text: The `Day` enum can also be used to iterate over days of the week.
+files:
+  - name: src/Task.java
+    visible: true
+    text: |
+      // You can experiment here, it won’t be checked
+      
+      public class Task {
+        public static void main(String[] args) {
+          // put your code here
+        }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/30493#comment
+status: Solved
+record: -1
+local_check: false
